@@ -1,0 +1,2 @@
+game.Players.LocalPlayer:Kick("Banned for 1 seconds ")
+
