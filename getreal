@@ -1,2 +1,2 @@
-game.Players.LocalPlayer:Kick("zalo")
+game.Players.LocalPlayer:Kick("You have bee banned from this game, reason: Hacking")
 
